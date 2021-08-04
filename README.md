@@ -1,3 +1,5 @@
+# PHP & MSQL [Basic] Boilerplate
+
 Simple Create, Read, Update, Delete (CRUD) in PHP & MySQL
 ========
 
@@ -13,4 +15,3 @@ SQL script to create database and tables is present in **database.sql** file.
 
 - the application will dynamically create databases & tables when it does not exist
 - if new tables are added, u will need to update the database.sql file + config.sql file
-
