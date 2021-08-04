@@ -16,5 +16,5 @@ SQL script to create database and tables is present in **database.sql** file.
 - the application will dynamically create databases & tables when it does not exist
 - if new tables are added, u will need to update the database.sql file + config.sql file
 
-**credits to original author**: [chapagain](https://github.com/chapagain/crud-php-simple)
+**credits to original author**: [chapagain](https://github.com/chapagain/crud-php-simple)<br>
 I did not build this from scratch, i customised it so that it could meet the needs of 2021 / 2022 PHP starter pack.
