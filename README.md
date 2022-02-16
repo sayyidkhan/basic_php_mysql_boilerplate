@@ -1,3 +1,9 @@
+# Clone this project into your computer
+```
+git clone https://github.com/sayyidkhan/basic_php_mysql_boilerplate/
+```
+
+
 # PHP & MSQL [Basic] Boilerplate
 
 Simple Create, Read, Update, Delete (CRUD) in PHP & MySQL
